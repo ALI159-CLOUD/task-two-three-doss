@@ -1,0 +1,6 @@
+.navbar {
+background : linear-gradient(to right, black , rgba(0, 0, 255, 0.849))
+}
+.navbar-brand{
+    background-color: whitesmoke;
+}
